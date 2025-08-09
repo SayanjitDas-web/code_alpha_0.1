@@ -45,7 +45,7 @@ The HTML is styled with generated CSS and both are saved locally.
 3. Add your Google Generative AI API key to .env:
    ```bash
    git clone <repo-url>
-   cd pdfagent
+   cd <folder_name>
 
 ## Usage
 1. Run the script:
