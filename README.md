@@ -1,4 +1,4 @@
-# PDF Agent – HTML & CSS Generator
+#Coding Agent – HTML & CSS Generator
 
 This project uses [LangChain](https://www.langchain.com/) and [Google Generative AI](https://ai.google/) to automatically generate HTML and CSS files based on natural language tasks.  
 The HTML is styled with generated CSS and both are saved locally.
