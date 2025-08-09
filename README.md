@@ -44,7 +44,7 @@ The HTML is styled with generated CSS and both are saved locally.
    uv sync
 3. Add your Google Generative AI API key to .env:
    ```bash
-   GOOGLE_API_KEY=your_api_key_here
+   GEMINI_AI_API=your_api_key_here
 
 ## Usage
 1. Run the script:
